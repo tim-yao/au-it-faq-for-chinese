@@ -25,10 +25,11 @@ QQ群 *在澳洲搞IT*：229197498
 
 1. [seek.com.au](http://seek.com.au)
 2. [Linkedin Jobs](https://www.linkedin.com/jobs/)
-3. [CareerOne] (https://www.careerone.com.au/)
+3. [CareerOne](https://www.careerone.com.au/)
 4. [hired](https://hired.com/home)
 5. [Gumtree](https://www.gumtree.com.au/)
 6. 各州政府网站
+7. [Huntr](http://huntr.co/) - 管理工作申请很好的工具
 
 ## 生活
 
@@ -36,4 +37,4 @@ QQ群 *在澳洲搞IT*：229197498
 
 ## 学习
 
-TODO
+**TODO**
