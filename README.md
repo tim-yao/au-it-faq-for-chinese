@@ -33,7 +33,19 @@ QQ群 *在澳洲搞IT*：229197498
 
 ## 生活
 
-**TODO**
+### Aussie Life skills
+
+#### Driving
+1. [Must learn before you go](http://www.raa.com.au/motoring-and-road-safety/learning-to-drive/take-the-online-learners-test)
+
+#### Dish Washer
+1. [How To Use a Dishwasher](https://www.youtube.com/watch?v=5lvweMBCqAs)
+2. [GoPro - Full wash cycle in a dishwasher](https://www.youtube.com/watch?v=gjcyUjXwH_4)
+
+#### Mow Lawn
+1. [How To Mow A Lawn Like A Pro - Lawn Mowing Tips For A Great Looking Lawn - Lawn Care Tips](https://www.youtube.com/watch?v=jTsibNGnzpA)
+
+
 
 ## 学习
 
