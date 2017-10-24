@@ -33,6 +33,24 @@ QQ群 *在澳洲搞IT*：229197498
 
 ## 生活
 
+### 安居
+
+#### 买房租房
+1. https://www.realestate.com.au/
+2. https://www.domain.com.au/
+
+#### 买车租车
+1. www.carsales.com.au/
+2. https://www.vroomvroomvroom.com.au/
+
+#### 在线购物
+
+**todo**
+
+#### 旅游住宿
+
+**todo**
+
 ### Aussie Life skills
 
 #### Driving
