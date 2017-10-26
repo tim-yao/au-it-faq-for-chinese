@@ -62,7 +62,7 @@ QQ群 *在澳洲搞IT*：229197498
 - 各地的中央市场，买菜便宜
 
 ### 有哪些华人论坛？
-1. [新足迹](https://www.oursteps.com.au/bbs/) - 最大的华人综合论坛。很多问题在这里都有答案。手机App可以下载。
+1. [新足迹](https://www.oursteps.com.au/bbs/) - 最大的华人综合论坛。很多问题在这里都有答案。有手机App可以下载。
 2. [FreeOZ(别名“解放澳洲”)](http://www.freeoz.org/) - 有很多优质的移民经验帖。
 3. [亿忆网](http://www.yeeyi.com) - 墨尔本地区的信息较多。
 4. [AdelaideBBS](http://adelaidebbs.com/bbs/forum.php) - 南澳的华人论坛。阿德地区的租房和二手交易可以看看这里。
