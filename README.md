@@ -50,7 +50,7 @@ QQ群 *在澳洲搞IT*：229197498
 ### 平时都去哪里购物？
 
 #### 本地的大超市/批发市场:
-- Coles, 第一次去的时候可以顺便办一张Flybuys Card，可积分
+- Coles, 第一次去的时候可以顺便办一张Flybuys Card，可积分
 - Woolworths, 第一次去的时候可以顺便办一张Woolworths Rewards Card, 可积分
 - ALDI, 便宜量大
 - Costco, 便宜量大，需要买会员，不过按年算性价比还是不错
