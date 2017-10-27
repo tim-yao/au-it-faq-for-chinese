@@ -84,3 +84,12 @@ QQ群 *在澳洲搞IT*：229197498
 
 ### 学习技能
 * [Barbara Oakley: "Learning How to Learn" | Talks at Google](https://www.youtube.com/watch?v=vd2dtkMINIw&t=1s)
+* [Memory Palace Technique](https://www.youtube.com/watch?v=p9IOqd1LpkA)
+* [The Feynman Technique](https://www.youtube.com/watch?v=tkm0TNFzIeg)
+* [Pomodoro Technique](https://www.youtube.com/watch?v=KEgDi2Xznq0)
+* [Chunking - A Learning Technique](https://www.youtube.com/watch?v=hydCdGLAh00)
+* [Process Learning](https://www.youtube.com/watch?v=yS2gCgjSq3U)
+* [Focused and Diffused Thinking (Ping Pong Technique)](https://www.youtube.com/watch?v=WTr12dK2Se0)
+* [Grit: the power of passion and perseverance | Angela Lee Duckworth](https://www.youtube.com/watch?v=H14bBuluwB8)
+
+## 为人处事
