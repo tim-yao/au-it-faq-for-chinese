@@ -93,3 +93,7 @@ QQ群 *在澳洲搞IT*：229197498
 * [Grit: the power of passion and perseverance | Angela Lee Duckworth](https://www.youtube.com/watch?v=H14bBuluwB8)
 
 ## 为人处事
+* [The Power of Mindfulness: What You Practice Grows Stronger | Shauna Shapiro](https://www.youtube.com/watch?v=IeblJdB2-Vo)
+* [There's more to life than being happy | Emily Esfahani Smith](https://www.youtube.com/watch?v=y9Trdafp83U)
+* [How mindfulness meditation redefines pain, happiness & satisfaction | Dr. Kasim Al-Mashat](How mindfulness meditation redefines pain, happiness & satisfaction | Dr. Kasim Al-Mashat)
+* [How memories form and how we lose them - Catharine Young](https://www.youtube.com/watch?v=yOgAbKJGrTA)
