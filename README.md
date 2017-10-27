@@ -95,7 +95,7 @@ QQ群 *在澳洲搞IT*：229197498
 ## 为人处事
 * [The Power of Mindfulness: What You Practice Grows Stronger | Shauna Shapiro](https://www.youtube.com/watch?v=IeblJdB2-Vo)
 * [There's more to life than being happy | Emily Esfahani Smith](https://www.youtube.com/watch?v=y9Trdafp83U)
-* [How mindfulness meditation redefines pain, happiness & satisfaction | Dr. Kasim Al-Mashat](How mindfulness meditation redefines pain, happiness & satisfaction | Dr. Kasim Al-Mashat)
+* [How mindfulness meditation redefines pain, happiness & satisfaction | Dr. Kasim Al-Mashat](https://www.youtube.com/watch?v=JVwLjC5etEQ)
 * [Grit: the power of passion and perseverance | Angela Lee Duckworth](https://www.youtube.com/watch?v=H14bBuluwB8)
 * [THE 7 HABITS OF HIGHLY EFFECTIVE PEOPLE BY STEPHEN COVEY](https://www.youtube.com/watch?v=ktlTxC4QG8g)
 * 
