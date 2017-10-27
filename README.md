@@ -82,4 +82,5 @@ QQ群 *在澳洲搞IT*：229197498
 
 ## 学习
 
-**TODO**
+### 学习技能
+* [Barbara Oakley: "Learning How to Learn" | Talks at Google](https://www.youtube.com/watch?v=vd2dtkMINIw&t=1s)
