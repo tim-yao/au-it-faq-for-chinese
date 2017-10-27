@@ -98,4 +98,3 @@ QQ群 *在澳洲搞IT*：229197498
 * [How mindfulness meditation redefines pain, happiness & satisfaction | Dr. Kasim Al-Mashat](https://www.youtube.com/watch?v=JVwLjC5etEQ)
 * [Grit: the power of passion and perseverance | Angela Lee Duckworth](https://www.youtube.com/watch?v=H14bBuluwB8)
 * [THE 7 HABITS OF HIGHLY EFFECTIVE PEOPLE BY STEPHEN COVEY](https://www.youtube.com/watch?v=ktlTxC4QG8g)
-* 
