@@ -11,6 +11,9 @@ QQ群 *在澳洲搞IT*：229197498
 
 另外本群得到QQ群友的热心捐助，以往记录在[捐赠记录](/donate.md)里。
 
+**2017年的聊天记录数据分析**：[Look Back 2017.ipynb](/Look Back 2017.ipynb)  
+感谢[zhongdai](https://github.com/zhongdai)提供帮助。 
+
 ## 求职
 
 ### 澳洲IT工作好找吗？
