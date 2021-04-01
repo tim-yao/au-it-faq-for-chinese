@@ -21,12 +21,21 @@ QQ群（已于2019年关闭） *在澳洲搞IT*：~~229197498~~
 
 以上都不满足的话，不好找。
 
+### 澳洲 & 新西兰 IT工作内推微信群
+
+下面油管频道是来自“澳洲IT工作内推群”公众号所组织的技术分享：
+
+https://www.youtube.com/channel/UCQ4CmL0YnFn9j6JMjmSbyzw/videos
+
 ### 有什么求职网站？
 1. [seek.com.au](http://seek.com.au)
 2. [Linkedin Jobs](https://www.linkedin.com/jobs/)
 3. [CareerOne](https://www.careerone.com.au/)
 4. [hired](https://hired.com/home)
-5. 各州政府网站
+5. 政府工作
+    - https://www.apsjobs.gov.au/
+    - https://careers.vic.gov.au/
+    - https://iworkfor.nsw.gov.au/
 6. [Huntr](http://huntr.co/) - 管理工作申请很好的工具
 
 ## 生活
@@ -73,11 +82,3 @@ QQ群（已于2019年关闭） *在澳洲搞IT*：~~229197498~~
 
 #### Driving
 1. [Must learn before you go](http://www.raa.com.au/motoring-and-road-safety/learning-to-drive/take-the-online-learners-test)
-
-#### Dish Washer
-1. [How To Use a Dishwasher](https://www.youtube.com/watch?v=5lvweMBCqAs)
-2. [GoPro - Full wash cycle in a dishwasher](https://www.youtube.com/watch?v=gjcyUjXwH_4)
-
-#### Mow Lawn
-1. [How To Mow A Lawn Like A Pro - Lawn Mowing Tips For A Great Looking Lawn - Lawn Care Tips](https://www.youtube.com/watch?v=jTsibNGnzpA)
-
