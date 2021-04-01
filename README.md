@@ -1,18 +1,15 @@
 # 澳洲IT新移民常见问题
-QQ群 *在澳洲搞IT*：229197498
 
-![alt text][qrcode]
+QQ群（已于2019年关闭） *在澳洲搞IT*：~~229197498~~
 
-[qrcode]:https://github.com/randomyao22/au-it-faq-for-chinese/blob/master/src/common/images/qrcode.png
-
-新入QQ群的朋友记得修改自己的群名片，格式*城市-昵称/名字-专业*。例如：“Mel-小明-Java”。
+加Linkedin群互链 https://www.linkedin.com/groups/4427290/
 
 希望这份文档可以帮助准备或者刚来澳洲的新移民一些帮助。欢迎大家补充问题和答案。
 
 另外本群得到QQ群友的热心捐助，以往记录在[捐赠记录](/donate.md)里。
 
 **2017年的聊天记录数据分析**：[Look Back 2017.ipynb](/Look%20Back%202017.ipynb)  
-感谢[zhongdai](https://github.com/zhongdai)提供帮助。 
+感谢[zhongdai](https://github.com/zhongdai)提供帮助。
 
 ## 求职
 
