@@ -81,7 +81,3 @@ QQ群（已于2019年关闭） *在澳洲搞IT*：~~229197498~~
 #### Mow Lawn
 1. [How To Mow A Lawn Like A Pro - Lawn Mowing Tips For A Great Looking Lawn - Lawn Care Tips](https://www.youtube.com/watch?v=jTsibNGnzpA)
 
-
-## 学习
-[学习资源](/学习资源.md)
-
