@@ -51,18 +51,20 @@ https://www.youtube.com/channel/UCQ4CmL0YnFn9j6JMjmSbyzw/videos
 ### 在线购物
 1. [ebay](https://www.ebay.com.au/)
 2. [Kogan](https://www.kogan.com/au/)
+3. [amazon](https://www.amazon.com.au/)
 
 ### 分类信息
 1. [Gumtree](https://www.gumtree.com.au/)
 
 ### 旅游住宿
 1. [Airbnb](https://www.airbnb.com.au/)
+2. [Booking](https://www.booking.com/)
 
 ### 平时都去哪里购物？
 
 #### 本地的大超市/批发市场:
-- Coles, 第一次去的时候可以顺便办一张Flybuys Card，可积分
-- Woolworths, 第一次去的时候可以顺便办一张Woolworths Rewards Card, 可积分
+- [Coles](https://www.coles.com.au/), 第一次去的时候可以顺便办一张Flybuys Card，可积分 
+- [Woolworths](https://www.woolworths.com.au/), 第一次去的时候可以顺便办一张Woolworths Rewards Card, 可积分
 - ALDI, 便宜量大
 - Costco, 便宜量大，需要买会员，不过按年算性价比还是不错
 - Foodland
@@ -71,6 +73,14 @@ https://www.youtube.com/channel/UCQ4CmL0YnFn9j6JMjmSbyzw/videos
 #### 买便宜的食材和华人的东西:
 - 各地的 China Town，你懂的
 - 各地的中央市场，买菜便宜
+- 社区华人超市
+- [墨尔本超市在线配送APP](https://play.google.com/store/apps/details?id=com.xilu.daao&hl=zh&gl=US&pli=1)
+
+#### 外卖
+- [Uber Eats](https://www.ubereats.com/au)
+- [DoorDash](https://www.doordash.com/en-AU)
+- 熊猫外卖
+- EASI
 
 ### 有哪些华人论坛？
 1. [新足迹](https://www.oursteps.com.au/bbs/) - 最大的华人综合论坛。很多问题在这里都有答案。有手机App可以下载。
@@ -78,7 +88,7 @@ https://www.youtube.com/channel/UCQ4CmL0YnFn9j6JMjmSbyzw/videos
 3. [亿忆网](http://www.yeeyi.com) - 墨尔本地区的信息较多。
 4. [AdelaideBBS](http://adelaidebbs.com/bbs/forum.php) - 南澳的华人论坛。阿德地区的租房和二手交易可以看看这里。
 
-### Aussie Life skills
+### 澳洲生活技能
 
-#### Driving
-1. [Must learn before you go](http://www.raa.com.au/motoring-and-road-safety/learning-to-drive/take-the-online-learners-test)
+#### 开车
+1. [强烈建议先正规学车再上路](http://www.raa.com.au/motoring-and-road-safety/learning-to-drive/take-the-online-learners-test)
