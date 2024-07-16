@@ -11,6 +11,17 @@ QQ群（已于2019年关闭） *在澳洲搞IT*：~~229197498~~
 **2017年的聊天记录数据分析**：[Look Back 2017.ipynb](/Look%20Back%202017.ipynb)  
 感谢[zhongdai](https://github.com/zhongdai)提供帮助。
 
+## ChatGPT澳达人
+
+可以回答各种相关澳洲移民留学生活问题。
+
+![澳达人](https://github.com/user-attachments/assets/5cb0a4ca-5133-4820-9b57-ae60e9568bc7)
+
+访问：https://chatgpt.com/g/g-a42vRO805-ao-da-ren
+
+或者在ChatGPT搜索: 澳达人
+
+
 ## 求职
 
 ### 澳洲IT工作好找吗？
