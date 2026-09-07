@@ -48,6 +48,7 @@ https://www.youtube.com/channel/UCQ4CmL0YnFn9j6JMjmSbyzw/videos
     - https://careers.vic.gov.au/
     - https://iworkfor.nsw.gov.au/
 6. [Huntr](http://huntr.co/) - 管理工作申请很好的工具
+7. [ResumeAI](https://withresumeai.com/) - AI 简历构建与免费 ATS 检查
 
 ## 生活
 
